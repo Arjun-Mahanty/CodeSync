@@ -1,5 +1,5 @@
 # CodeSync :technologist:
-Project submission for Winter Of Code 2023 conducted by [SDSLabs](https://github.com/sdslabs)
+Project submission for Winter Of Code 2023
 
 ## Description
 This website aims to provide a collaborative coding platform that allows users to work together in real-time on code projects, share knowledge, and improve their coding skills. The platform is designed to be user-friendly and accessible to coders of all skill levels, whether they are working on personal projects or collaborating with peers.
@@ -51,9 +51,4 @@ npm start
 
 
 ## Author
-[Arpan Mahanty](https://github.com/ArpanMahanty01)
-
-## Mentors
-[Tanmay Bajaj](https://github.com/Frey0-0)
-
-[Gyanendra Banjare](https://github.com/0xn4utilus)
+[Arjun Mahanty](https://github.com/ArjunMahanty)
