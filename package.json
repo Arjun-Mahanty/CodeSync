@@ -4,8 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "build": "NODE_ENV='development' webpack",
-    "start": "peerjs --port 3001 & nodemon server.js & HOST=localhost PORT=1234 npx y-websocket"
+    "build": "set NODE_ENV='development' && webpack",
+    "start": "nodemon server.js"
   },
   "keywords": [],
   "author": "",
@@ -20,6 +20,7 @@
     "express-session": "^1.17.3",
     "googleapis": "^112.0.0",
     "mongoose": "^7.0.1",
+    "peer": "^1.0.0",
     "peerjs": "^1.4.7",
     "uuid": "^9.0.0",
     "ws": "^8.12.1",
